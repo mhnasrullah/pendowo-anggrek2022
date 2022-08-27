@@ -1,0 +1,31 @@
+.shapeMain::before{
+    content : '';
+    position : absolute;
+    left : -10px;
+    height : 100%;
+    width : 40px;
+    z-index : -1;
+    transform : scaleY(1.2);
+    background : #C1D5A4;
+}
+
+.shapeSub::before{
+    content : '';
+    position : absolute;
+    left : -10px;
+    height : 30px;
+    width : 40px;
+    z-index : -1;
+    transform : scaleY(1.2);
+    background : #C1D5A4;
+}
+
+
+@media only screen and (min-width : 991.8px){
+    .shapeMain::before{
+        width : 60px;
+    }
+    .shapeSub::before{
+        height : 40px;
+    }
+}

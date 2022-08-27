@@ -1,0 +1,2 @@
+export const likeConRight = "mr-[1rem] sm:mr-[2rem] lg:mr-[4rem] xl:mr-[5rem] 2xl:mr-[6rem] ml-[1rem] sm:ml-[2rem]";
+export const likeConLeft = "mr-[1rem] sm:mr-[2rem] lg:mr-[4rem] xl:mr-[5rem] 2xl:mr-[6rem] ml-[1rem] sm:ml-[2rem]";

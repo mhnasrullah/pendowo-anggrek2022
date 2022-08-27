@@ -1,0 +1,27 @@
+[
+    {
+        "img" : "https://picsum.photos/200/300?random=1",
+        "name" : "Epicentrumm Marbellish",
+        "subName" : "Epicentrumm Marbellish sub"
+    },
+    {
+        "img" : "https://picsum.photos/200/300?random=2",
+        "name" : "Epicentrumm Orname",
+        "subName" : "Epicentrumm Orname sub"
+    },
+    {
+        "img" : "https://picsum.photos/200/300?random=3",
+        "name" : "Epicentrumm Disname",
+        "subName" : "Epicentrumm Disname sub"
+    },
+    {
+        "img" : "https://picsum.photos/200/300?random=4",
+        "name" : "Epicentrumm Klirik",
+        "subName" : "Epicentrumm Klirik sub"
+    },
+    {
+        "img" : "https://picsum.photos/200/300?random=5",
+        "name" : "Epicentrumm Rapidboss",
+        "subName" : "Epicentrumm Rapidboss sub"
+    }
+]

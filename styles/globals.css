@@ -1,6 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+body{
+  font-family : 'poppins', sans-serif;
+}
 /* html,
 body {
   padding: 0;
@@ -27,3 +30,20 @@ a {
     background: black;
   }
 } */
+
+.swiper-pagination-progressbar{
+  background : #224B0C22 !important;
+}
+
+.swiper-pagination-progressbar .swiper-pagination-progressbar-fill{
+  background : #AC4425 !important;
+}
+
+.swiper-horizontal>.swiper-pagination-progressbar, .swiper-pagination-progressbar.swiper-pagination-horizontal, .swiper-pagination-progressbar.swiper-pagination-vertical.swiper-pagination-progressbar-opposite, .swiper-vertical>.swiper-pagination-progressbar.swiper-pagination-progressbar-opposite{
+  height : 2px !important;
+  bottom : 20px;
+  width : unset !important;
+  left : 10% !important;
+  right : 10% !important;
+  top : unset !important; 
+}
